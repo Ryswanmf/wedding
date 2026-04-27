@@ -4,6 +4,17 @@ AOS.init({
     once: true,
 });
 
+// Guest Name Logic
+const urlParams = new URLSearchParams(window.location.search);
+const guestName = urlParams.get('to');
+const guestElement = document.getElementById('guest');
+const guestDiv = document.getElementById('guestName');
+
+if (guestName) {
+    guestElement.innerText = guestName;
+    guestDiv.classList.remove('hidden');
+}
+
 // Wedding Date (Dummy: 1 year from now)
 const weddingDate = new Date("April 27, 2026 08:00:00").getTime();
 

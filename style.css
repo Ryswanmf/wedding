@@ -161,6 +161,26 @@ h1, h2, h3 {
     line-height: 1.2;
 }
 
+.guest-name {
+    margin: 20px 0;
+    padding: 15px;
+    background: rgba(15, 61, 62, 0.05);
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.guest-name p {
+    font-size: 0.9rem;
+    color: var(--emerald-dark);
+    margin-bottom: 5px;
+}
+
+.guest-name h2 {
+    font-size: 1.8rem;
+    color: var(--emerald-dark);
+    font-family: var(--serif-font);
+}
+
 .wedding-date {
     font-size: 1.1rem;
     font-weight: 400;
