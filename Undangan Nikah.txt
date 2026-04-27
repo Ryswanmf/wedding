@@ -1,0 +1,48 @@
+Buatkan website undangan pernikahan modern dan elegan dengan tema warna putih dan emerald green. Desain minimalis, clean, dan mewah dengan aksen daun hijau serta elemen floral.
+
+Struktur halaman:
+1. Hero Section:
+   - Background putih dengan ornamen daun emerald
+   - Nama pasangan besar di tengah
+   - Tanggal pernikahan
+   - Tombol “Buka Undangan”
+
+2. Opening Section:
+   - Kalimat pembuka (Bismillah / quotes romantis)
+   - Foto pasangan (frame elegan)
+
+3. Detail Acara:
+   - Akad Nikah (tanggal, waktu, lokasi)
+   - Resepsi (tanggal, waktu, lokasi)
+   - Gunakan icon elegan berwarna emerald
+
+4. Countdown Timer:
+   - Hitung mundur ke hari H
+
+5. Gallery:
+   - Grid foto prewedding
+
+6. Love Story:
+   - Timeline cerita hubungan
+
+7. RSVP:
+   - Form konfirmasi kehadiran (nama, jumlah tamu, pesan)
+
+8. Maps:
+   - Embed Google Maps lokasi acara
+
+9. Gift Section:
+   - Informasi rekening / e-wallet
+
+10. Footer:
+   - Ucapan terima kasih
+   - Nama pasangan
+
+Style:
+- Warna utama: putih (#FFFFFF) dan emerald green (#2ecc71 / #0F3D3E)
+- Font elegan (serif + sans-serif kombinasi)
+- Animasi smooth (fade in, slide up)
+- Responsive (mobile friendly)
+- Tambahkan backsound musik romantis autoplay
+
+Gunakan HTML, CSS, dan JavaScript modern.
